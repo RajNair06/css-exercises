@@ -1,0 +1,14 @@
+.a{
+    font-size:28px;
+    font-family: Helvetica,Times New Roman,sans-serif;
+
+}
+.a.b{
+    background-color: black;
+    color:white;
+
+}
+
+.a.c{
+    background-color: yellow;
+}

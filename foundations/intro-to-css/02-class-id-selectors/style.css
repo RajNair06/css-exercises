@@ -1,0 +1,20 @@
+.a{
+    background-color: hotpink;
+    
+}
+
+#e{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.a.b{
+    font-size: 30px;
+}
+#f{
+    background-color: lightgreen;
+    font-weight: bold;
+    font: size 30px;
+}
+
